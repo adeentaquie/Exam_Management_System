@@ -1,0 +1,47 @@
+1 50 299
+2 45 192
+3 20 111
+4 100 911
+5 30 61912
+51
+856132632
+
+Room No: 12
+Room Capacity: 56
+Room Telephone Ext.: 21
+
+
+Room No: 1
+Room Capacity: 60
+Room Telephone Ext.: 021-121121121
+
+
+Room No: 1
+Room Capacity: 60
+Room Telephone Ext.: 021-121121121
+
+
+Room No: 1
+Room Capacity: 2
+Room Telephone Ext.: 3
+
+
+Room No: 2
+Room Capacity: 2
+Room Telephone Ext.: 2
+
+
+Room No: 2
+Room Capacity: 2
+Room Telephone Ext.: 2
+
+
+Room No: 2
+Room Capacity: 2
+Room Telephone Ext.: 2
+
+
+Room No: 4
+Room Capacity: 65
+Room Telephone Ext.: 1324156562
+

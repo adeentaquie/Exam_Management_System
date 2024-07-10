@@ -1,0 +1,378 @@
+Course studentID: 1
+Course InstructorName: LA
+No Of Exams: 1
+Course ID: 0
+Course Name : 
+No Of Instructors: 1
+Instructor ID: 2
+Instructor Name : LA
+No Of Students: 2
+Student ID: 1
+Student Name: MAC
+
+Course studentID: 9
+Course InstructorName: mac
+No Of Exams: 1
+Course ID: 1
+Course Name : la
+No Of Instructors: 1
+Instructor ID: 2
+Instructor Name : mac
+No Of Students: 1
+Student ID: 9
+Student Name: john
+
+
+Course ID: 1
+Course Name : LA
+No Of Instructors: 1
+Instructor ID: 2
+Instructor Name : MAC
+No Of Students: 1
+Student ID: 123
+Student Name: HASSAAN
+
+
+Course ID: 1
+Course Name : LA
+No Of Instructors: 1
+Instructor ID: 1
+Instructor Name : MAC
+No Of Students: 1
+Student ID: 5
+Student Name: Kaylay
+
+
+Course ID: 1
+Course Name : ISl
+No Of Instructors: 1
+Instructor ID: 1
+Instructor Name : la
+No Of Students: 1
+Student ID: 5
+Student Name: ac
+
+
+Course ID: 1
+Course Name : la
+No Of Instructors: 2
+Instructor ID: 1
+Instructor Name : la
+No Of Students: 2
+Student ID: 11
+Student Name: mal
+
+
+Course ID: 1
+Course Name : la
+No Of Instructors: 1
+Instructor ID: 1
+Instructor Name : la
+No Of Students: 2
+Student ID: 55
+Student Name: 12
+
+
+Course ID: 1
+Course Name : DSA
+No Of Instructors: 1
+Instructor ID: 321
+Instructor Name : RAZA
+No Of Students: 1
+Student ID: 12345
+Student Name: ALi
+
+Instructor ID: 4
+Instructor Name: 
+Student ID: 7
+Student Name: 
+Student ID: 5
+Student Name: 8
+Student ID: 4
+Student Name: 6
+Student ID: 59
+Student Name: 8+
+Student ID: 5
+Student Name: 5
+Student ID: 5
+Student Name: 5
+Student ID: 610
+Student Name: 5
+Instructor ID: 1
+Instructor Name: 
+Student ID: 12
+Student Name: 
+Student ID: 0
+Student Name: 
+Instructor ID: 12
+Instructor Name: 
+Student ID: 123
+Student Name: 
+Student ID: 21
+Student Name: john
+Student ID: 32
+Student Name: lap
+Student ID: 0
+Student Name: lap
+Student ID: 5
+Student Name: jja
+Student ID: 526
+Student Name: ola
+Student ID: 526
+Student Name: ola
+Instructor ID: 1
+Instructor Name: 
+Instructor ID: 0
+Instructor Name: 
+Instructor ID: 5
+Instructor Name: 
+Instructor ID: 0
+Instructor Name: 
+Instructor ID: 2
+Instructor Name: 
+Instructor ID: 0
+Instructor Name: 
+Instructor ID: 0
+Instructor Name: 
+Instructor ID: 0
+Instructor Name: 
+Instructor ID: 5
+Instructor Name: 
+Instructor ID: 5
+Instructor Name: 
+Instructor ID: 0
+Instructor Name: 
+Instructor ID: 6
+Instructor Name: 
+Instructor ID: 4
+Instructor Name: 
+Instructor ID: 2
+Instructor Name: 
+Instructor ID: 2
+Instructor Name: 
+Instructor ID: 2
+Instructor Name: 
+Instructor ID: 2
+Instructor Name: 
+Instructor ID: 2
+Instructor Name: 
+Instructor ID: 0
+Instructor Name: 
+Instructor ID: 1
+Instructor Name: 
+Student ID: 123
+Student Name: 
+Instructor ID: 0
+Instructor Name: mac
+Student ID: 12345
+Student Name: 
+Student ID: 0
+Student Name: 
+Student ID: 0
+Student Name: 
+Student ID: 0
+Student Name: 
+Student ID: 0
+Student Name: 
+Student ID: 0
+Student Name: 
+Student ID: 0
+Student Name: 
+Student ID: 0
+Student Name: 
+Student ID: 0
+Student Name: 
+Student ID: 0
+Student Name: 
+Student ID: 0
+Student Name: 
+Student ID: 0
+Student Name: 
+Student ID: 0
+Student Name: 
+Student ID: 0
+Student Name: 
+Student ID: 0
+Student Name: 
+Student ID: 0
+Student Name: 
+Student ID: 0
+Student Name: 
+Student ID: 0
+Student Name: 
+Student ID: 0
+Student Name: 
+Student ID: 0
+Student Name: 
+Student ID: 0
+Student Name: 
+Instructor ID: 123
+Instructor Name: 
+Student ID: 1212
+Student Name: 
+Student ID: 0
+Student Name: 
+Instructor ID: 1
+Instructor Name: 
+Student ID: 1212
+Student Name: 
+Course ID: 1
+Course Name : ha
+No Of Instructors: 1
+121
+max
+2
+12
+la
+Instructor ID: 121
+Instructor Name: 
+Instructor ID: 121
+Instructor Name: 
+Instructor ID: 1212
+Instructor Name: 
+Instructor ID: 1
+Instructor Name: kal
+Instructor ID: 121
+Instructor Name: 
+Course ID: 1
+Course Name : la
+No Of Instructors: 0
+Instructor ID: 121
+Instructor Name: 
+Course ID: 1
+Course Name : la
+No Of Instructors: 0
+Instructor ID: 121
+Instructor Name: 
+Student ID: 121
+Student Name: 
+Student ID: 121
+Student Name: KAL
+Course ID: 1
+Course Name : LA
+No Of Instructors: 0
+Instructor ID: 121
+Instructor Name: 
+Student ID: 0
+Student Name: 
+Student ID: 10
+Student Name: lak
+Course ID: 1
+Course Name : LA
+No Of Instructors: 0
+Instructor ID: 1
+Instructor Name: 
+Student ID: 1
+Student Name: 
+Student ID: 2
+Student Name: mac
+Course ID: 1
+Course Name : la
+No Of Instructors: 0
+Instructor ID: 1
+Instructor Name: 
+Student ID: 1
+Student Name: 
+Course ID: 1
+Course Name : la
+No Of Instructors: 1
+121
+
+0
+132
+
+Course ID: 1
+Course Name : la
+No Of Instructors: 1
+121
+
+0
+2
+
+Course ID: 1
+Course Name : la
+No Of Instructors: 1
+1
+
+0
+0
+
+Course ID: 1
+Course Name : la
+No Of Instructors: 1
+1
+
+1
+1
+
+Course ID: 1
+Course Name : la
+No Of Instructors: 1
+0
+
+0
+2
+
+Course ID: 1
+Course Name : ha
+No Of Instructors: 1
+0
+
+1
+2
+
+Course ID: 1
+Course Name : la
+No Of Instructors: 1
+0
+
+1
+0
+
+Course ID: 1
+Course Name : la
+No Of Instructors: 1
+0
+
+12
+1
+
+Course ID: 1
+Course Name : LA
+No Of Instructors: 1
+0
+
+121
+1
+
+Course ID: 1
+Course Name : la
+No Of Instructors: 1
+121
+
+121
+0
+
+Course ID: 1
+Course Name : la
+No Of Instructors: 1
+121
+
+0
+1
+
+Course ID: 1
+Course Name : hassaan
+No Of Instructors: 1
+2
+
+0
+1
+
+Instructor ID: 1
+Instructor Name: 
+Student ID: 1
+Student Name: 
+Course ID: 1
+Course Name : la
+No Of Instructors: 0

@@ -1,0 +1,487 @@
+Instructor ID: 1
+Instructor Name: 
+Student ID: 2
+Student Name: 
+Course ID: 1
+Course Name : la
+No Of Instructors: 0
+Instructor ID: 1
+Instructor Name: 
+Student ID: 12
+Student Name: 
+Course ID: 1
+Course Name : la
+No Of Instructors: 0
+Instructor ID: 1
+Instructor Name: 
+Student ID: 1
+Student Name: 
+Course ID: 1
+Course Name : la
+No Of Instructors: 0
+Instructor ID: 1
+Instructor Name: 
+Student ID: 2
+Student Name: 
+Course ID: 3
+Course Name : os
+No Of Instructors: 0
+Instructor ID: 1
+Instructor Name: 
+Student ID: 2
+Student Name: 
+Course ID: 1
+Course Name : dsa
+No Of Instructors: 0
+1
+a
+0
+2
+b
+Instructor ID: 1
+Instructor Name: 
+Student ID: 1
+Student Name: 
+Student ID: 2
+Student Name: b
+Course ID: 1
+Course Name : DB
+No Of Instructors: 0
+1
+a
+0
+2
+c
+Instructor ID: 1
+Instructor Name: 
+Student ID: 2
+Student Name: 
+Course ID: 1
+Course Name : la
+No Of Instructors: 0
+1
+mac
+0
+2
+b
+Instructor ID: 1
+Instructor Name: 
+Instructor ID: 2
+Instructor Name: a
+Student ID: 1
+Student Name: 
+Student ID: 2
+Student Name: f
+Course ID: 1
+Course Name : la
+No Of Instructors: 0
+2
+b
+0
+2
+e
+Instructor ID: 1
+Instructor Name: 
+Instructor ID: 2
+Instructor Name: a
+Student ID: 1
+Student Name: 
+Student ID: 2
+Student Name: f
+
+1
+TBW
+0
+2
+b
+0
+2
+e
+Instructor ID: 1
+Instructor Name: 
+
+1
+la
+0
+1
+a
+0
+2
+
+Instructor ID: 1
+Instructor Name: 
+Instructor ID: 2
+Instructor Name: a
+Student ID: 2
+Student Name: 
+
+1
+la
+2
+2
+b
+1
+2
+s
+Instructor ID: 1
+Instructor Name: 
+Instructor ID: 2
+Instructor Name: a
+Student ID: 1
+Student Name: 
+Student ID: 2
+Student Name: f
+
+1
+OS
+2
+2
+b
+2
+2
+e
+Instructor ID: 1
+Instructor Name: 
+21
+Student ID: 21
+Student Name: 
+21
+
+1
+las
+1
+1
+a
+1
+21
+mac
+Instructor ID: 1
+Instructor Name: 
+
+2
+Student ID: 2
+Student Name: 
+
+d
+
+2
+
+1
+la
+1
+1
+a
+1
+2
+d
+Instructor ID: 1
+Instructor Name: 
+Student ID: 2
+Student Name: 
+
+1
+la
+1
+1
+a
+1
+2
+f
+Instructor ID: 1
+Instructor Name: 
+Student ID: 2
+Student Name: d
+Student ID: 2
+
+1
+la
+1
+1
+a
+1
+2
+d
+Instructor ID: 1
+Instructor Name: 
+Student ID: 1
+Student Name: a
+Student ID: 2
+Student Name: b
+Student ID: 2
+
+1
+os
+1
+1
+lak
+2
+2
+b
+Instructor ID: 1
+Instructor Name: 
+Student ID: 1
+Student Name: a
+Student ID: 2
+Student Name: b
+Student ID: 2
+
+1
+la
+1
+1
+a
+2
+2
+b
+Instructor ID: 1
+Instructor Name: 
+Student ID: 1
+Student Name: a
+Student ID: 2
+Student Name: b
+Student ID: 0
+
+1
+la
+1
+1
+a
+2
+0
+b
+Instructor ID: 1
+Instructor Name: 
+Student ID: 1
+Student Name: a
+Instructor ID: 1
+Instructor Name: a
+Instructor ID: 2
+Instructor Name: b
+Student ID: 4
+Student Name: g
+Student ID: 5
+Student Name: h
+Student ID: 5
+
+1
+als
+2
+2
+b
+2
+5
+h
+Course ID: 1
+Course Name: las
+Instructor ID: 1
+Instructor Name: a
+Instructor ID: 2
+Instructor Name: b
+Student ID: 4
+Student Name: g
+Student ID: 5
+Student Name: h
+Student ID: 5
+
+1
+las
+2
+2
+b
+2
+5
+h
+Course ID: 1
+Course Name: Algo
+No Of Instructors: 0
+Instructor ID: 1
+Instructor Name: a
+Instructor ID: 2
+Instructor Name: b
+Instructor ID: 3
+Instructor Name: c
+No Of Students: 2
+Student ID: 4
+Student Name: g
+Student ID: 5
+Student Name: h
+Student ID: 5
+
+1
+Algo
+3
+3
+c
+2
+5
+h
+
+ Course ID: 1
+Course Name: ha
+No Of Instructors: 3
+Instructor ID: 1
+Instructor Name: a
+Instructor ID: 2
+Instructor Name: b
+Instructor ID: 3
+Instructor Name: c
+No Of Students: 2
+Student ID: 4
+Student Name: g
+Student ID: 5
+Student Name: h
+Student ID: 5
+
+ Course ID: 1
+Course Name: ha
+No Of Instructors: 3
+Instructor ID: 1
+Instructor Name: a
+Instructor ID: 2
+Instructor Name: b
+Instructor ID: 3
+Instructor Name: c
+No Of Students: 3
+Student ID: 4
+Student Name: g
+Student ID: 5
+Student Name: h
+Student ID: 6
+Student Name: k
+Student ID: 6
+
+ Course ID: 1
+Course Name: ja
+No Of Instructors: 1
+Instructor ID: 1
+Instructor Name: a
+No Of Students: 1
+Student ID: 1
+Student Name: c
+
+ Course ID: 1
+Course Name: db
+No Of Instructors: 3
+Instructor ID: 1
+Instructor Name: a
+Instructor ID: 2
+Instructor Name: b
+Instructor ID: 3
+Instructor Name: c
+No Of Students: 3
+Student ID: 4
+Student Name: g
+Instructor ID: 5
+No Of Students: 0
+
+ Course ID: 1
+Course Name: db
+No Of Instructors: 3
+Instructor ID: 1
+Instructor Name: a
+Instructor ID: 2
+Instructor Name: b
+Instructor ID: 3
+Instructor Name: c
+No Of Students: 3
+Student ID: 4
+Student Name: g
+
+ Course ID: 1
+Course Name: kal
+No Of Instructors: 1
+Instructor ID: 1
+Instructor Name: a
+No Of Students: 3
+Student ID: 1
+Student Name: a
+
+ Course ID: 1
+Course Name: lak
+No Of Instructors: 3
+Instructor ID: 1
+Instructor Name: a
+Instructor ID: 2
+Instructor Name: b
+Instructor ID: 3
+Instructor Name: c
+No Of Students: 3
+Student ID: 4
+Student Name: g
+
+ Course ID: 1
+Course Name: a
+No Of Instructors: 1
+Instructor ID: 1
+Instructor Name: a
+No Of Students: 3
+Student ID: 1
+Student Name: a
+Student ID: 2
+Student Name: 3
+Student ID: 22
+Student Name: 2
+
+ Course ID: 1
+Course Name: la
+No Of Instructors: 1
+Instructor ID: 1
+Instructor Name: a
+No Of Students: 3
+Student ID: 1
+Student Name: a
+Student ID: 2
+Student Name: b
+Student ID: 3
+Student Name: c
+
+ Course ID: 1
+Course Name: a
+No Of Instructors: 1
+Instructor ID: 1
+Instructor Name: a
+No Of Students: 3
+Student ID: 1
+Student Name: a
+Student ID: 2
+Student Name: b
+Student ID: 3
+Student Name: c
+
+ Course ID: 1
+Course Name: laka
+No Of Instructors: 3
+Instructor ID: 1
+Instructor Name: a
+Instructor ID: 2
+Instructor Name: b
+Instructor ID: 3
+Instructor Name: c
+No Of Students: 3
+Student ID: 4
+Student Name: g
+Student ID: 5
+Student Name: h
+Student ID: 6
+Student Name: k
+
+Course ID: 1
+Course Name: tbw
+No Of Instructors: 3
+Instructor ID: 1
+Instructor Name: a
+Instructor ID: 2
+Instructor Name: b
+Instructor ID: 3
+Instructor Name: c
+No Of Students: 5
+Student ID: 4
+Student Name: g
+Student ID: 5
+Student Name: h
+Student ID: 6
+Student Name: k
+Student ID: 7
+Student Name: l
+Student ID: 9
+Student Name: j
